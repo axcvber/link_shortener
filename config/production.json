@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "fuckingMern",
+  "mongoUri": "mongodb+srv://alex:alex2020@cluster0.tyebs.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
